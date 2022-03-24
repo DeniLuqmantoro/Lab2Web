@@ -12,7 +12,26 @@ Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf"> )
 
 Jawaban
 
-1. Disini saya melakukan eksperiment dengan menambah prperti dan nilai yang berbeda untuk file code dan hasil konten di web saya tampilkan sebagai betikut:
+1. Disini saya melakukan eksperiment dengan menambah prperti dan nilai yang berbeda untuk file code dan hasil konten di    web saya tampilkan sebagai betikut:
+
+   a. Code Html eksperiment
+![Screenshot (154)](https://user-images.githubusercontent.com/101716699/159901513-efa27955-8223-465e-968b-9cd00418d536.png)
+
+   b. Css dari file eksperiment
+   disini saya membuat Css dengan beberapa properti seperti class selector, Id selector, dan cssbaground bertujuan        untuk membuat tampilan halaman web menjadi lebih menarik.
+![Screenshot (155)](https://user-images.githubusercontent.com/101716699/159901529-05a0e01f-3ff3-441d-9b8d-759b50157500.png)
+![Screenshot (156)](https://user-images.githubusercontent.com/101716699/159901533-b89b4fa4-7726-4e01-bedf-8175f62db383.png)
+   c. Halaman web eksperiment
+   dengan properti dan nilai yang berbeda akan menghasilkan tampilan yang berbeda dari file html praktikum.
+![Screenshot (157)](https://user-images.githubusercontent.com/101716699/159901542-b450998c-7b00-4ed1-aa3f-4d5f5e84d2db.png)
+
+2. Perbedaan dari pendeklarasian h1 {...} dan #intro h1 {...} adalah pada selector yaitu jika pendeklarasian hanya        dengan tag h1 itu artinya tidak disertai dengan selector.Dalam hal ini tampilan browser hanya akan menampilkan          heading 1 dengan apa adanya sesuai pendeklarasian.Adapun jika pendeklarasian disertai dengan adanya #intro h1 itu      berarti disertai dengan selector yaitu ID selector yang berfungsi untuk memberikan style yang berbeda pada sebuah
+   elemen HTML.
+   
+3. Jika ada deklarasi CSS internal dan CSS eksternal serta inline CSS pada elemen yang sama maka deklarasi CSS internal    yang akan ditampilkan pada browser
+
+
+
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/101716699/159722969-ad3210f3-5b60-43aa-a62b-5a130f4de0c8.png)
 
