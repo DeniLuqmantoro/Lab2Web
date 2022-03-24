@@ -12,8 +12,8 @@ Berikan penjelasan dan contohnya! ( p id="paragraf-1" class="text-paragraf"> )
 
 Jawaban
 
-1. Disini saya melakukan eksperiment dengan menambah prperti dan nilai yang berbeda
-2. 
+1. Disini saya melakukan eksperiment dengan menambah prperti dan nilai yang berbeda untuk file code dan hasil konten di web saya tampilkan sebagai betikut:
+
 ![Screenshot (139)](https://user-images.githubusercontent.com/101716699/159722969-ad3210f3-5b60-43aa-a62b-5a130f4de0c8.png)
 
 ![Screenshot (140)](https://user-images.githubusercontent.com/101716699/159723121-055d13ad-971b-43a6-a59b-bd7ae4cb8124.png)
