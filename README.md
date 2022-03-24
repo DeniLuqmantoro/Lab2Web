@@ -40,13 +40,15 @@ Jawaban
    c. Berikut ini adalah hasil yang ditampilkan pada browser, dimana tampilanya sesuai dengan pendeklarasian Css             internal dengan format warna teks berwarna green yelow/#adff2f
 ![Screenshot (168)](https://user-images.githubusercontent.com/101716699/159929244-493c323a-68d9-419e-ac46-b12af585c8b2.png)
 
-4. Berdasarkan pertanyaan nomor 4 disini saya mengambil contoh dengan membuat paragraf baru seperti dibawah ini dengan pendeklarasian ID dan Class selector. untuk lebih jelasnya dapat dilihat pada gambar dibawah ini.
+4. Berdasarkan pertanyaan nomor 4.
+
+   a. disini saya mengambil contoh dengan membuat paragraf baru seperti dibawah ini dengan pendeklarasian ID dan Class selector. untuk lebih jelasnya dapat dilihat pada gambar dibawah ini.
 ![Screenshot (169)](https://user-images.githubusercontent.com/101716699/159933518-99383b13-0c21-4611-956b-48daa01dd9bf.png)
 
-Kemudian pada Css eksternal saya memberikan perintah perataan dan format warna teks yang berbeda dimana pada ID class diberi nilai align center dan warna green yellow/#adff2f sedangkan Class selector diberi nilai align right dan warna putih. Untuk lebih jelasnya bisa dilihat pada gambar dibawah inj.
+   b. Kemudian pada Css eksternal saya memberikan perintah perataan dan format warna teks yang berbeda dimana pada ID class diberi nilai align center dan warna green yellow/#adff2f sedangkan Class selector diberi nilai align right dan warna putih. Untuk lebih jelasnya bisa dilihat pada gambar dibawah inj.
 ![Screenshot (172)](https://user-images.githubusercontent.com/101716699/159935860-4665f954-55ad-41a9-bfaa-47426bc1a7b9.png)
 
-Selanjutnya simpan perubahan dan muat ulang browser. Pada tampilan paragraf yang ditampilkan pada browser menujukan posisi kerataan kanan dan warna teks berwarna putih, itu artinya deklarasi class selectorlah yang ditampilkan terlebih dahulu pada browser. untuk lebih jelasnya bisa dilihat pada gambar dibawah ini.![Screenshot (171)](https://user-images.githubusercontent.com/101716699/159936623-b52961ca-9423-4717-bb31-3fb2072fbe9a.png)
+   c. Selanjutnya simpan perubahan dan muat ulang browser. Pada tampilan paragraf yang ditampilkan pada browser menujukan posisi kerataan kanan dan warna teks berwarna putih, itu artinya deklarasi class selectorlah yang ditampilkan terlebih dahulu pada browser. untuk lebih jelasnya bisa dilihat pada gambar dibawah ini.![Screenshot (171)](https://user-images.githubusercontent.com/101716699/159936623-b52961ca-9423-4717-bb31-3fb2072fbe9a.png)
 
 
 B. Laporan Praktikum
