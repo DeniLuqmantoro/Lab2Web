@@ -1,4 +1,5 @@
 # Lab2Web
+A. Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS 
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan 
@@ -28,10 +29,18 @@ Jawaban
 2. Perbedaan dari pendeklarasian h1 {...} dan #intro h1 {...} adalah pada selector yaitu jika pendeklarasian hanya        dengan tag h1 itu artinya tidak disertai dengan selector.Dalam hal ini tampilan browser hanya akan menampilkan          heading 1 dengan apa adanya sesuai pendeklarasian.Adapun jika pendeklarasian disertai dengan adanya #intro h1 itu      berarti disertai dengan selector yaitu ID selector yang berfungsi untuk memberikan style yang berbeda pada sebuah
    elemen HTML.
    
-3. Jika ada deklarasi CSS internal dan CSS eksternal serta inline CSS pada elemen yang sama maka deklarasi CSS internal    yang akan ditampilkan pada browser
+3. Jika ada deklarasi CSS internal dan CSS eksternal serta inline CSS pada elemen yang sama maka deklarasi CSS internal    yang akan ditampilkan pada browser. Contoh:
 
+   a. Berikut gambar code pendeklarasian Css Internal
+ ![Screenshot (158)](https://user-images.githubusercontent.com/101716699/159917220-1fc6bea5-e88d-4e9a-8599-8bb1cf259e3e.png)
+   b. Berikut gambar code pendeklarasian Css Eksternal
+![Screenshot (159)](https://user-images.githubusercontent.com/101716699/159917230-53367013-175c-4b7b-896b-8a83544785ca.png)
+   c. Berikut ini adalah hasil yang ditampilkan pada browser, dimana tampolanya sesuai dengan pendeklarasian Css             internal.
+![Screenshot (153)](https://user-images.githubusercontent.com/101716699/159917710-ca9480fd-fcb4-4b55-be6d-c908ad63bcfc.png)
 
+4. mshs
 
+B. Laporan Praktikum
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/101716699/159722969-ad3210f3-5b60-43aa-a62b-5a130f4de0c8.png)
 
