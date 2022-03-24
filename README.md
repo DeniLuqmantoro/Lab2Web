@@ -31,14 +31,23 @@ Jawaban
    
 3. Jika ada deklarasi CSS internal dan CSS eksternal serta inline CSS pada elemen yang sama maka deklarasi CSS internal    yang akan ditampilkan pada browser. Contoh:
 
-   a. Berikut gambar code pendeklarasian Css Internal
- ![Screenshot (158)](https://user-images.githubusercontent.com/101716699/159917220-1fc6bea5-e88d-4e9a-8599-8bb1cf259e3e.png)
-   b. Berikut gambar code pendeklarasian Css Eksternal
-![Screenshot (159)](https://user-images.githubusercontent.com/101716699/159917230-53367013-175c-4b7b-896b-8a83544785ca.png)
-   c. Berikut ini adalah hasil yang ditampilkan pada browser, dimana tampolanya sesuai dengan pendeklarasian Css             internal.
-![Screenshot (153)](https://user-images.githubusercontent.com/101716699/159917710-ca9480fd-fcb4-4b55-be6d-c908ad63bcfc.png)
+   a. Berikut gambar code pendeklarasian Css Internal saya mengambil contok warna teks paragraf dengan format warna green yellow/#adff2f
+![Screenshot (166)](https://user-images.githubusercontent.com/101716699/159928554-171b3c91-d210-4339-9c05-3bc4d23371c9.png)
 
-4. mshs
+   b. Berikut gambar code pendeklarasian Css Eksternal saya mengambil contoh warna teks paragraf dengan format warna putih/#fffff
+![Screenshot (167)](https://user-images.githubusercontent.com/101716699/159929031-4cfad210-0468-47ec-b8be-38753b69bd7c.png)
+
+   c. Berikut ini adalah hasil yang ditampilkan pada browser, dimana tampilanya sesuai dengan pendeklarasian Css             internal dengan format warna teks berwarna green yelow/#adff2f
+![Screenshot (168)](https://user-images.githubusercontent.com/101716699/159929244-493c323a-68d9-419e-ac46-b12af585c8b2.png)
+
+4. Berdasarkan pertanyaan nomor 4 disini saya mengambil contoh dengan membuat paragraf baru seperti dibawah ini dengan pendeklarasian ID dan Class selector. untuk lebih jelasnya dapat dilihat pada gambar dibawah ini.
+![Screenshot (169)](https://user-images.githubusercontent.com/101716699/159933518-99383b13-0c21-4611-956b-48daa01dd9bf.png)
+
+Kemudian pada Css eksternal saya memberikan perintah perataan dan format warna teks yang berbeda dimana pada ID class diberi nilai align center dan warna green yellow/#adff2f sedangkan Class selector diberi nilai align right dan warna putih. Untuk lebih jelasnya bisa dilihat pada gambar dibawah inj.
+![Screenshot (172)](https://user-images.githubusercontent.com/101716699/159935860-4665f954-55ad-41a9-bfaa-47426bc1a7b9.png)
+
+Selanjutnya simpan perubahan dan muat ulang browser. Pada tampilan paragraf yang ditampilkan pada browser menujukan posisi kerataan kanan dan warna teks berwarna putih, itu artinya deklarasi class selectorlah yang ditampilkan terlebih dahulu pada browser. untuk lebih jelasnya bisa dilihat pada gambar dibawah ini.![Screenshot (171)](https://user-images.githubusercontent.com/101716699/159936623-b52961ca-9423-4717-bb31-3fb2072fbe9a.png)
+
 
 B. Laporan Praktikum
 
@@ -55,19 +64,23 @@ B. Laporan Praktikum
 ![Screenshot (144)](https://user-images.githubusercontent.com/101716699/159723138-06d9d93d-c660-40a9-aff4-721ba4c16a61.png)
 
 5. Menambahkan Inline Css pada dokumen Html
-![Screenshot (146)](https://user-images.githubusercontent.com/101716699/159723145-d598f92f-2c98-42e1-b743-80d64476179a.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/101716699/159926509-766fb6c0-f0b1-416f-8fc8-b4d437361e44.png)
+
 
 6. Inline Css berhasil ditambahkan dimana sebelumnya paragraf tersebut memiliki format rata kiri dan setelah diberikan Css format paragraf berubah menjadi rata tengah sesuai deklarasi yang diberikan.
-![Screenshot (147)](https://user-images.githubusercontent.com/101716699/159723154-a8dd2fcc-4ee1-4167-85af-0db6af2e43aa.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/101716699/159926575-99426284-fa0c-4c25-a7cc-ead7a6aaa8c3.png)
 
-7. Tahap berikutnya yaitu membuat dokumen Css eksternal dengan nama style_eksternal.css
+
+7. Tahap berikutnya yaitu membuat dokumen Css eksternal dengan nama style_eksternal.css dan menyisipkan tag link untuk merujuk file css yang sudah dibuat pada bagian head
 ![Screenshot (148)](https://user-images.githubusercontent.com/101716699/159723160-2d5e8c4f-e2fe-400f-8ba5-357a05895f00.png)
-
-8.
 ![Screenshot (150)](https://user-images.githubusercontent.com/101716699/159723164-cbd9ad67-1ed7-4d68-b77b-dcb32e667f87.png)
+   
+8. Kemudian muat ulang browser dan disini terlihat tampilan browser terjadi perubahan seperti warna teks heading 1 warna bacground navigasi dan yang lainya.
+![Screenshot (162)](https://user-images.githubusercontent.com/101716699/159926656-4df06c3e-8d0d-40b8-98c8-5e58a5eef585.png)
 
-![Screenshot (151)](https://user-images.githubusercontent.com/101716699/159723169-b54954ae-015d-4d3b-9a31-52b5f0eed983.png)
 
+9. Tahap yang terakhir pada praktikum ini yaitu menambahkan slector pada dokume  Css eksternal untuk lebih jelasnya bisa dilihat pada gambar dibawah ini.
 ![Screenshot (152)](https://user-images.githubusercontent.com/101716699/159723177-01ce35e5-3f50-4085-8157-ce1dd6bb3588.png)
 
-![Screenshot (153)](https://user-images.githubusercontent.com/101716699/159723180-1f283536-c820-40e7-9ed8-97bc3e16315e.png)
+10. Simpan dan muat ulang kembali browser dan tampilan berubah seperti warna bacground body dan button informasi selanjutnya. dengan ini dapat diartikan Style Css berhasil di tambahkan.
+![Screenshot (163)](https://user-images.githubusercontent.com/101716699/159926706-9318ff4b-b455-4d6e-8e91-aed18bf3c1f9.png)
