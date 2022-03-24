@@ -42,20 +42,28 @@ Jawaban
 
 B. Laporan Praktikum
 
+1. Membuat dokumen Html dengan nama Lab2Web.
 ![Screenshot (139)](https://user-images.githubusercontent.com/101716699/159722969-ad3210f3-5b60-43aa-a62b-5a130f4de0c8.png)
 
+2. kemudian simpan dan coba tampilkan pada browser untuk melihat hasilnya.
 ![Screenshot (140)](https://user-images.githubusercontent.com/101716699/159723121-055d13ad-971b-43a6-a59b-bd7ae4cb8124.png)
 
+3. Pada tahap selanjutnya yaitu melakukan pendeklarasian Css Internal pada dokumen Html yang telah dibuat.
 ![Screenshot (143)](https://user-images.githubusercontent.com/101716699/159723132-27d259b7-4b25-4c9c-a689-c39bc2e0e22c.png)
 
+4. Selanjutnya simpan perubahan dan muat ulang pada browser untuk melihat perubahannya. Pada tahap ini tampilan browser berubah dan artinya css internal berhasil di tambahkan.
 ![Screenshot (144)](https://user-images.githubusercontent.com/101716699/159723138-06d9d93d-c660-40a9-aff4-721ba4c16a61.png)
 
+5. Menambahkan Inline Css pada dokumen Html
 ![Screenshot (146)](https://user-images.githubusercontent.com/101716699/159723145-d598f92f-2c98-42e1-b743-80d64476179a.png)
 
+6. Inline Css berhasil ditambahkan dimana sebelumnya paragraf tersebut memiliki format rata kiri dan setelah diberikan Css format paragraf berubah menjadi rata tengah sesuai deklarasi yang diberikan.
 ![Screenshot (147)](https://user-images.githubusercontent.com/101716699/159723154-a8dd2fcc-4ee1-4167-85af-0db6af2e43aa.png)
 
+7. Tahap berikutnya yaitu membuat dokumen Css eksternal dengan nama style_eksternal.css
 ![Screenshot (148)](https://user-images.githubusercontent.com/101716699/159723160-2d5e8c4f-e2fe-400f-8ba5-357a05895f00.png)
 
+8.
 ![Screenshot (150)](https://user-images.githubusercontent.com/101716699/159723164-cbd9ad67-1ed7-4d68-b77b-dcb32e667f87.png)
 
 ![Screenshot (151)](https://user-images.githubusercontent.com/101716699/159723169-b54954ae-015d-4d3b-9a31-52b5f0eed983.png)
